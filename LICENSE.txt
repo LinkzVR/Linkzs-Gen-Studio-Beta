@@ -1,0 +1,9 @@
+Copyright (c) 2026 Linkz
+
+Permission is granted to download and run this beta for personal testing.
+
+You may not redistribute the program, sell it, or present it as your own.
+The beta is provided as is, without warranty. It may change or stop working.
+
+This license covers Linkz's Gen Studio only. Third-party components
+included in the download remain under their own licenses.

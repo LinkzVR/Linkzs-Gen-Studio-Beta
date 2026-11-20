@@ -1,0 +1,45 @@
+Linkz's Gen Studio Beta includes these components under their own licenses.
+
+Python
+  Python Software Foundation License
+  https://docs.python.org/3/license.html
+
+FastAPI
+  MIT License
+  https://github.com/fastapi/fastapi
+
+Starlette
+  BSD-3-Clause License
+  https://github.com/encode/starlette
+
+Uvicorn
+  BSD-3-Clause License
+  https://github.com/encode/uvicorn
+
+Pydantic
+  MIT License
+  https://github.com/pydantic/pydantic
+
+httpx
+  BSD-3-Clause License
+  https://github.com/encode/httpx
+
+Pillow
+  HPND License
+  https://github.com/python-pillow/Pillow
+
+python-multipart
+  Apache License 2.0
+  https://github.com/Kludex/python-multipart
+
+AnyIO
+  MIT License
+  https://github.com/agronholm/anyio
+
+WebSockets
+  BSD-3-Clause License
+  https://github.com/python-websockets/websockets
+
+PyInstaller is used to build the download and is not part of the running program.
+  GPL-2.0-or-later with a bootloader exception
+  https://github.com/pyinstaller/pyinstaller
