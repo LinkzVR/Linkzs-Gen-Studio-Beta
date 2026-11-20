@@ -25,7 +25,7 @@ Replacing the EXE does not delete that folder.
 
 On startup the program reads `latest.json` in this repository. If the published version is newer, it shows the release page. Download the new EXE and run it. Your library stays where it is.
 
-The current beta is **0.6C.1**. Codes are given out by Linkz. They are not listed in this repository. Generate, Animate, and Prompt Gen stay unavailable until an API key is saved or a local ComfyUI is installed.
+The current beta is **0.6C.2**. Codes are given out by Linkz. They are not listed in this repository. Generate, Animate, and Prompt Gen stay unavailable until an API key is saved or a local ComfyUI is installed. Get a key explains the API cost before the site opens.
 
 ## License
 
